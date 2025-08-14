@@ -1,4 +1,8 @@
-## Hi there 👋
+## Maria Eduarda Palmeiro 💻
+<div align="center">
+   <img src="https://gifcity.carrd.co/assets/images/gallery47/2e9b860a.gif"/>
+</div>
+
 
 <!--
 **eduardapalmeiro/eduardapalmeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
