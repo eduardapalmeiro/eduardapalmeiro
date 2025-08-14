@@ -10,8 +10,8 @@
 ---
 
 <h4> 🌱 Aprendendo atualmente: </h4>
-<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBd2rMcfI56SZEenhvautbZl_xUsPSHaktNw&s"></code>
-<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDwBd9LoQzBAZigXXxzQ0kKn6TwyrE0Y7Rg&s"></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 
 
