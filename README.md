@@ -1,7 +1,8 @@
 ## Maria Eduarda Palmeiro 💻
-<div align="center">
-   <img src="https://gifcity.carrd.co/assets/images/gallery47/2e9b860a.gif"/>
-</div>
+<p align="center">
+   <img src="https://github.com/eduardapalmeiro/eduardapalmeiro/blob/main/morcego.gif?raw=true">
+</p> 
+
 
 
 <!--
