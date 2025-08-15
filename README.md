@@ -1,7 +1,7 @@
 <h1 align="center"> Maria Eduarda Palmeiro 💻 </h1>
   
 <p align="center">
-  <img src="https://github.com/eduardapalmeiro/eduardapalmeiro/blob/main/morcego.gif?raw=true">
+  <img src="https://biscuit2.crd.co/assets/images/gallery14/7245f378.gif?v=417d2f39">
 </p>
 <p align="center">
    Olá! Eu sou a Maria Eduarda, tenho 18 anos e faço faculdade de ciência da computação.
