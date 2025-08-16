@@ -1,4 +1,6 @@
-<h1 align="center"> Maria Eduarda Palmeiro 💻 </h1>
+<h1 align="center"> Maria Eduarda Palmeiro 
+<img src="https://gifcity.carrd.co/assets/images/gallery92/9494afc0.gif?v=e3c0bc0f" width="30">
+</h1>
   
 <p align="center">
   <img src="https://biscuit2.crd.co/assets/images/gallery14/7245f378.gif?v=417d2f39">
